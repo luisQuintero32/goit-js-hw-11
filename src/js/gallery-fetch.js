@@ -28,7 +28,7 @@ export default class GalleryApi {
     this.searchQuery = newQuery;
   }
 }
-
+// axios
 
 axios.defaults.baseURL = 'https://pixabay.com/api/';
 const KEY = '36100562-e7fdc43375d9d73a4de1d4637';
